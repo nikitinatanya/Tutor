@@ -5,4 +5,4 @@
 |:-----:|-----|:-----:|
 |1|[Оформление проектов](https://github.com/nikitinatanya/tutor/tree/main/Оформление%20проектов) | Markdown, LaTeX
 |2|[Boxplot](https://github.com/nikitinatanya/tutor/tree/main/Визуализация) | seaborn, boxplot
-|3|[Subplot, ax]()|seaborn, histplot, subplot
+|3|[Subplot, ax](https://github.com/nikitinatanya/tutor/blob/main/Визуализация/histplot.ipynb)|seaborn
